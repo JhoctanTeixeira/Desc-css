@@ -1,0 +1,23 @@
+.b-boody {
+    background-color: #dfdfdf;
+
+}
+
+.s-site-nav {
+    list-style: none;
+    background-color: #f9f9f9;
+}
+
+.b-bebida {
+    list-style-type: none;
+    background-color: #f9f9f9;
+}
+
+.f-footer {
+    background: #f9f9f9;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
