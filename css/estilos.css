@@ -7,11 +7,13 @@
 .s-site-nav {
     list-style: none;
     background-color: #f9f9f9;
+    text-decoration: none;
 }
 
 .b-bebida {
     list-style-type: none;
     background-color: #f9f9f9;
+    text-decoration: none;
 }
 
 .f-footer {
@@ -21,4 +23,11 @@
     position: absolute;
     bottom: 0;
     left: 0;
+}
+.c-caixa{
+    border: 10px solid blue;
+    background-color: lightblue;
+    width: 300px;
+    height: 100px;
+    padding: 10px 20px 10px 20px;
 }
